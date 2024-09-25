@@ -1,0 +1,43 @@
+10/06/99 00:35:40: Starting build.
+10/06/99 00:35:40: Connecting to index.
+10/06/99 00:35:42: Searching: C:\UW
+10/06/99 00:35:42: Indexing 29 documents.
+10/06/99 00:35:42: Extracting from c:\uw\contents.pdf.
+10/06/99 00:35:45: Extracting from c:\uw\images\preface.pdf.
+10/06/99 00:35:46: Extracting from c:\uw\images\part_i.pdf.
+10/06/99 00:35:46: Extracting from c:\uw\images\chap_06.pdf.
+10/06/99 00:35:57: Extracting from c:\uw\images\chap_07.pdf.
+10/06/99 00:36:05: Extracting from c:\uw\images\chap_03.pdf.
+10/06/99 00:36:11: Extracting from c:\uw\images\chap_04.pdf.
+10/06/99 00:36:15: Extracting from c:\uw\images\chap_05.pdf.
+10/06/99 00:36:24: Extracting from c:\uw\images\part_ii.pdf.
+10/06/99 00:36:25: Extracting from c:\uw\images\chap_02.pdf.
+10/06/99 00:36:32: Extracting from c:\uw\images\chap_08.pdf.
+10/06/99 00:36:42: Extracting from c:\uw\images\chap_09.pdf.
+10/06/99 00:36:58: Extracting from c:\uw\images\part_iii.pdf.
+10/06/99 00:36:59: Extracting from c:\uw\images\chap_10.pdf.
+10/06/99 00:37:10: Extracting from c:\uw\images\chap_11.pdf.
+10/06/99 00:37:18: Extracting from c:\uw\images\part_iv.pdf.
+10/06/99 00:37:18: Extracting from c:\uw\images\chap_12.pdf.
+10/06/99 00:37:27: Extracting from c:\uw\images\chap_13.pdf.
+10/06/99 00:37:37: Extracting from c:\uw\images\chap_14.pdf.
+10/06/99 00:37:42: Extracting from c:\uw\images\part_v.pdf.
+10/06/99 00:37:42: Extracting from c:\uw\images\chap_15.pdf.
+10/06/99 00:37:49: Extracting from c:\uw\images\chap_16.pdf.
+10/06/99 00:37:56: Extracting from c:\uw\images\part_vi.pdf.
+10/06/99 00:37:56: Extracting from c:\uw\images\chap_17.pdf.
+10/06/99 00:38:02: Extracting from c:\uw\images\chap_18.pdf.
+10/06/99 00:38:03: Extracting from c:\uw\images\chap_19.pdf.
+10/06/99 00:38:04: Extracting from c:\uw\images\chap_20.pdf.
+10/06/99 00:38:07: Extracting from c:\uw\images\index.pdf.
+10/06/99 00:38:10: Extracting from c:\uw\images\chap_01.pdf.
+10/06/99 00:38:23: Removing index entries for changed or deleted documents.
+10/06/99 00:38:23: Removing unnecessary index entries.
+10/06/99 00:38:23: Building Word Assist List.
+10/06/99 00:38:26: Waiting for about 20 seconds to perform routine index update.
+10/06/99 00:38:47:   Total Acrobat files in all directories: 29
+10/06/99 00:38:47:   Total new files: 29
+10/06/99 00:38:47:   Total pages indexed: 428
+10/06/99 00:38:47:   Total number of files skipped: 0
+10/06/99 00:38:47:   Total deleted files: 0
+10/06/99 00:38:47: Index Build Successful.
